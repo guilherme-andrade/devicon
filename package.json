@@ -1,5 +1,5 @@
 {
-  "name": "devicon",
+  "name": "devicon-patched-with-stimulus",
   "version": "2.2.0",
   "description": "Programming related icons collection",
   "main": "devicon.min.css",
