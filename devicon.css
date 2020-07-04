@@ -870,3 +870,7 @@
 .devicon-zend-plain:before {
 	content: "\ec04";
 }
+
+.devicon-stimulus-plain:before {
+	content: "\ec05";
+}
